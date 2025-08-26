@@ -8,7 +8,7 @@
 		"chargebee-typescript": "^2.52.0",
 		"stripe": "^18.4.0",
 		"ufo": "^1.6.1",
-		"zod": "^4.0.17"
+		"zod": "^4.1.1"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.2.0",
