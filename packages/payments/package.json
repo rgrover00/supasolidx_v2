@@ -11,9 +11,9 @@
 		"zod": "^4.0.17"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.2.0",
+		"@biomejs/biome": "2.2.4",
 		"@repo/tsconfig": "workspace:*",
-		"@types/node": "^24.3.0"
+		"@types/node": "^24.6.1"
 	},
 	"main": "./index.ts",
 	"exports": {
